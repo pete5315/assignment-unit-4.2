@@ -1,0 +1,18 @@
+header {
+    background-color: papayawhip;
+    color: darkorange;
+}
+
+.info > h2 {
+    background-color: wheat;
+    color: slategray;
+}
+
+.info > h3 {
+    background-color: mediumturquoise;
+    color: mediumpurple;
+}
+
+img {
+    max-width: 200px;
+}
